@@ -1,0 +1,58 @@
+{
+  "contexts": [
+    {
+      "dc": "us-east4gcp",
+      "ad_format": "banner",
+      "pub_id": "1007950",
+      "bundle_id": "1207472156",
+      "tag_id": "BANNER",
+      "cc": "USA",
+      "context_hash": "13677617117914323147"
+    },
+    {
+      "dc":"us-east4gcp",
+      "ad_format":"banner",
+      "pub_id":"1008199",
+      "bundle_id": "com.peoplefun.wordcross",
+      "tag_id": "3cf97e2a-0370-4b58-86ef-3174701e3332",
+      "cc": "USA",
+      "context_hash": "871397612603656680"
+    },
+    {
+      "dc":"us-east4gcp",
+      "ad_format":"native",
+      "pub_id":"0",
+      "bundle_id": "591560124",
+      "tag_id": "BANNER",
+      "cc": "USA",
+      "context_hash": "15508723918213076872"
+    },
+    {
+      "dc":"us-east4gcp",
+      "ad_format":"native",
+      "pub_id":"0",
+      "bundle_id": "com.pixel.art.coloring.color.number",
+      "tag_id": "5d5d2779-c29f-4e11-ab3a-290fc46a93c5",
+      "cc": "USA",
+      "context_hash": "8387118903825488324"
+    },
+    { "dc":"us-east4gcp",
+      "ad_format":"video",
+      "pub_id":"0",
+      "bundle_id": "74519",
+      "tag_id": "400008778",
+      "cc": "USA",
+      "context_hash": "18058710746607490439"
+    },
+    {
+      "dc":"us-east4gcp",
+      "ad_format":"video",
+      "pub_id":"0",
+      "bundle_id": "com.peoplefun.wordcross",
+      "tag_id": "INTER",
+      "cc": "USA",
+      "context_hash": "3571106062192531396"
+    }
+  ]
+}
+

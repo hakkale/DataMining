@@ -1,0 +1,42 @@
+[
+  {
+    "context_hash": "37811cc60c99ec9a",
+    "min_price": 0.2035,
+    "max_price": 0.4485
+  },
+  {
+    "context_hash": "3571106062192531396",
+    "min_price": 0.7865,
+    "max_price": 6.3555
+  },
+  {
+    "context_hash": "18058710746607490439",
+    "min_price": 1.3357,
+    "max_price": 10.5865
+  },
+  {
+    "context_hash": "15508723918213076872",
+    "min_price": 0.0625,
+    "max_price": 0.4395
+  },
+  {
+    "context_hash": "8387118903825488324",
+    "min_price": 0.0055,
+    "max_price": 0.3245
+  },
+  {
+    "context_hash": "13677617117914323147",
+    "min_price": 0.018,
+    "max_price": 0.6
+  },
+  {
+    "context_hash": "871397612603656680",
+    "min_price": 0.0221,
+    "max_price": 0.6605
+  },
+  {
+    "context_hash": "default_ctx",
+    "min_price": 0.0,
+    "max_price": 1.0
+  }
+]

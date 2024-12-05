@@ -1,0 +1,8 @@
+{
+  "level_size": 2,
+  "bucket_size": 10,
+  "buffer_size": 10,
+  "discount": 0.1,
+  "desired_exploration_speed": 0.5,
+  "space_desc_file": "data/space_desc.json"
+}
